@@ -3,7 +3,7 @@
 ## Modelo do Banco de Dados
 Abaixo está a imagem do Modelo do banco de dados do projeto BurguerMania:
 
-![Modelo do banco de dados do projeto BurguerMania](https://github.com/user-attachments/assets/4f3895a1-be26-4c5d-a8bf-71b2ec54be31)
+![Modelo do banco de dados do projeto BurguerMania](https://github.com/user-attachments/assets/b5d4b6dc-34fd-4f0a-a417-e25c0a567f88)
 
 ## Descrição do Projeto
 O **BurguerMania API** é a continuação do projeto Frontend desenvolvido em Angular, que tem como objetivo proporcionar uma experiência completa no gerenciamento de pedidos de hambúrguer. Este projeto backend foi desenvolvido utilizando o **.NET** e o **Entity Framework** para implementar uma API seguindo o padrão REST, que serve como base para armazenar e processar dados de categorias, produtos e pedidos.
